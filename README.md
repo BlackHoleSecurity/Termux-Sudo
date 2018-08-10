@@ -1,0 +1,2 @@
+# Termux-Sudo
+Sudo termux
