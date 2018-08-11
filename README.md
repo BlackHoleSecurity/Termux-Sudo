@@ -6,6 +6,9 @@ apt update
 apt upgrade
 
 
+pkg install ncurses-utils
+
+
 apt install git
 
 
